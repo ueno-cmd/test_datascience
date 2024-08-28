@@ -14,7 +14,7 @@ def predict():
 			   'fuel-system', 'bore', 'stroke', 'compression-ratio', 'horsepower', 'peak-rpm',
 			   'city-mpg', 'highway-mpg']
 	df = pd.DataFrame(payload['data'], columns=columns)
-	model = load_model('automobile_final')
+	model = load_model('output/automobile_final')
 	predictions = predict_model(model, df)
 	return jsonify({
 		'price': float(predictions[['prediction_label']].values[0][0])

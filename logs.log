@@ -2175,3 +2175,11 @@ Increase the number of iterations (max_iter) or scale the data as shown in:
 2024-08-28 16:52:46,865:WARNING:C:\Users\ut122\PycharmProjects\testProject\.venv\Lib\site-packages\joblib\_memmapping_reducer.py:598: UserWarning: Failed to delete temporary folder: C:\Users\ut122\AppData\Local\Temp\joblib_memmapping_folder_16680_2900c41068444a3cb194caad5edea621_14a6f6185f14446b95d659f497b3edb3
   warnings.warn("Failed to delete temporary folder: {}"
 
+2024-08-28 16:56:26,844:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-08-28 16:56:26,844:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-08-28 16:56:26,844:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-08-28 16:56:26,844:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
